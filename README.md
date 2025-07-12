@@ -1,18 +1,38 @@
-## Hi there 👋
+# Hi, I'm Suyash 👋
 
-## GitHub Stats 📊
-[![Suyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyash2702&show_icons=true&theme=synthwave)](https://github.com/suyash2702) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suyash2702&langs_count=8&theme=synthwave&layout=compact)](https://github.com/suyash2702)
-<!--
-**suyash2702/suyash2702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a senior backend engineer, systems designer, and ex-founder who loves building useful things — fast.
 
-Here are some ideas to get you started:
+Over the last few years, I've:
+- 💼 Built the entire backend + CRM systems at **Airblack**, a D2C beauty-tech startup.
+- 🧱 Architected scalable microservices in **Node.js**, **Python**, and **Java**.
+- 🛠️ Founded **SmartGym** during COVID — bringing gym-at-home to life.
+- 🧠 Played with AI/LLMs and built tools like compliance checkers, companion chat apps, and AI-enabled email campaign platforms.
+- 📦 Delivered full-stack products for fintech, edtech, and AI startups as a freelancer and founding engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech I use (and enjoy)
+
+- **Languages**: Node.js, Python, Java, SQL
+- **Frameworks**: Express.js, FastAPI, Spring Boot
+- **Infra**: AWS, Docker, MongoDB, PostgreSQL, Redis
+- **Tools**: Git, CI/CD, Salesforce (yes, I’ve even written Apex)
+
+### ⚡ Currently Exploring
+- Building with **LLMs** and vector DBs (RAG, memory systems, roleplay companions)
+- Bringing plug-and-play backend architecture to early-stage startups
+- Freelancing on **Upwork** to help founders go from idea to MVP
+
+### 🚀 A few things I’ve built
+- **CRM & Workflow Engine** from scratch (Airblack)
+- **AI Companion Platform** with persistent memory (Dippy)
+- **Workout Booking Platform** with React Native + backend APIs
+- **Compliance Checker** with OpenAI + web scraping in under 48 hours
+
+### 🎯 Philosophy
+> Build fast. Build for scale. Make it feel magical.
+
+I care about shipping quality products quickly — without overengineering. I love collaborating with designers, PMs, and founders who move fast and want real impact.
+
+---
+
+📫 Reach out: [LinkedIn](https://www.linkedin.com/in/suyash2702) | [Email](mailto:suyash2702@gmail.com)
+
